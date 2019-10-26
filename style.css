@@ -1,0 +1,27 @@
+.jpg img{
+	width: 100px;
+	margin-right: 50px;
+}
+
+.png img{
+	width: 100px;
+	margin-top: 50px;
+	margin-right: 50px;
+}
+
+.box{
+	background-color: red;
+	border: 2px solid black;
+	border-radius: 10px;
+	margin: auto;
+	width: 200px;
+	height: 300px;
+	text-align: center;
+	font-family: courier;
+	font-size: 50px;
+}
+
+.box img{
+	width: 50px;
+	border-radius: 50px;
+}

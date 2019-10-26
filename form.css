@@ -1,0 +1,31 @@
+.form input[type="text"],
+.form input[type="email"],
+.form input[type="number"],
+.form input[type="password"],
+.form input[type="search"]{
+	display: block;
+	margin: 20px 20px 10px 20px;
+	width: 30%;
+}
+
+.form input{
+	display: inline-block;
+}
+
+.login{
+	background-color: lightblue;
+	width: 500px;
+	margin: 50px auto;
+	padding: 20px;
+}
+
+.login label{
+	float: left;
+	margin: 0;
+}
+
+.login input{
+	display: block;
+	margin: 20px 30px 10px 20px;
+
+}
